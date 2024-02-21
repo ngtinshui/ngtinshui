@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ngtinshui
-- 👀 I’m interested in AI technology on biolech research
+- 👀 I’m interested in AI technology on biotech research
 - 🌱 I’m currently learning GitHub and related apps
 - 💞️ I’m looking to collaborate on AI application on plant cell research
 - 📫 I can be reached via my email at : rogerng@topempire.com
